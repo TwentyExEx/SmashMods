@@ -318,18 +318,6 @@
     "fighter/sonic/motion/body/c00/b02rebound.nuanmb": [
       "fighter/sonic/motion/body/c08/b02rebound.nuanmb"
     ],
-    "fighter/sonic/motion/body/c00/c00attack11.nuanmb": [
-      "fighter/sonic/motion/body/c08/c00attack11.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c00attack12.nuanmb": [
-      "fighter/sonic/motion/body/c08/c00attack12.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c00attack13.nuanmb": [
-      "fighter/sonic/motion/body/c08/c00attack13.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c00attackdash.nuanmb": [
-      "fighter/sonic/motion/body/c08/c00attackdash.nuanmb"
-    ],
     "fighter/sonic/motion/body/c00/c01attacks3hi.nuanmb": [
       "fighter/sonic/motion/body/c08/c01attacks3hi.nuanmb"
     ],
@@ -357,38 +345,11 @@
     "fighter/sonic/motion/body/c00/c03attacks4s.nuanmb": [
       "fighter/sonic/motion/body/c08/c03attacks4s.nuanmb"
     ],
-    "fighter/sonic/motion/body/c00/c04attackhi4.nuanmb": [
-      "fighter/sonic/motion/body/c08/c04attackhi4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c04attackhi4charge.nuanmb": [
-      "fighter/sonic/motion/body/c08/c04attackhi4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c04attacklw4.nuanmb": [
-      "fighter/sonic/motion/body/c08/c04attacklw4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c04attacklw4charge.nuanmb": [
-      "fighter/sonic/motion/body/c08/c04attacklw4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c05attackairb.nuanmb": [
-      "fighter/sonic/motion/body/c08/c05attackairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c05attackairf.nuanmb": [
-      "fighter/sonic/motion/body/c08/c05attackairf.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c05attackairhi.nuanmb": [
-      "fighter/sonic/motion/body/c08/c05attackairhi.nuanmb"
-    ],
     "fighter/sonic/motion/body/c00/c05attackairlw.nuanmb": [
       "fighter/sonic/motion/body/c08/c05attackairlw.nuanmb"
     ],
-    "fighter/sonic/motion/body/c00/c05attackairn.nuanmb": [
-      "fighter/sonic/motion/body/c08/c05attackairn.nuanmb"
-    ],
     "fighter/sonic/motion/body/c00/c05landingairb.nuanmb": [
       "fighter/sonic/motion/body/c08/c05landingairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/c05landingairf.nuanmb": [
-      "fighter/sonic/motion/body/c08/c05landingairf.nuanmb"
     ],
     "fighter/sonic/motion/body/c00/c05landingairhi.nuanmb": [
       "fighter/sonic/motion/body/c08/c05landingairhi.nuanmb"
@@ -404,9 +365,6 @@
     ],
     "fighter/sonic/motion/body/c00/d00specialncancel.nuanmb": [
       "fighter/sonic/motion/body/c08/d00specialncancel.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c00/d00specialnhit.nuanmb": [
-      "fighter/sonic/motion/body/c08/d00specialnhit.nuanmb"
     ],
     "fighter/sonic/motion/body/c00/d00specialnlanding.nuanmb": [
       "fighter/sonic/motion/body/c08/d00specialnlanding.nuanmb"
@@ -1134,9 +1092,6 @@
     "fighter/sonic/motion/body/c00/ik.prc": [
       "fighter/sonic/motion/body/c08/ik.prc"
     ],
-    "fighter/sonic/motion/body/c00/motion_list.bin": [
-      "fighter/sonic/motion/body/c08/motion_list.bin"
-    ],
     "fighter/sonic/motion/body/c00/scharge.prc": [
       "fighter/sonic/motion/body/c08/scharge.prc"
     ],
@@ -1650,18 +1605,6 @@
     "fighter/sonic/motion/body/c01/b02rebound.nuanmb": [
       "fighter/sonic/motion/body/c09/b02rebound.nuanmb"
     ],
-    "fighter/sonic/motion/body/c01/c00attack11.nuanmb": [
-      "fighter/sonic/motion/body/c09/c00attack11.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c00attack12.nuanmb": [
-      "fighter/sonic/motion/body/c09/c00attack12.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c00attack13.nuanmb": [
-      "fighter/sonic/motion/body/c09/c00attack13.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c00attackdash.nuanmb": [
-      "fighter/sonic/motion/body/c09/c00attackdash.nuanmb"
-    ],
     "fighter/sonic/motion/body/c01/c01attacks3hi.nuanmb": [
       "fighter/sonic/motion/body/c09/c01attacks3hi.nuanmb"
     ],
@@ -1689,38 +1632,11 @@
     "fighter/sonic/motion/body/c01/c03attacks4s.nuanmb": [
       "fighter/sonic/motion/body/c09/c03attacks4s.nuanmb"
     ],
-    "fighter/sonic/motion/body/c01/c04attackhi4.nuanmb": [
-      "fighter/sonic/motion/body/c09/c04attackhi4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c04attackhi4charge.nuanmb": [
-      "fighter/sonic/motion/body/c09/c04attackhi4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c04attacklw4.nuanmb": [
-      "fighter/sonic/motion/body/c09/c04attacklw4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c04attacklw4charge.nuanmb": [
-      "fighter/sonic/motion/body/c09/c04attacklw4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c05attackairb.nuanmb": [
-      "fighter/sonic/motion/body/c09/c05attackairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c05attackairf.nuanmb": [
-      "fighter/sonic/motion/body/c09/c05attackairf.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c05attackairhi.nuanmb": [
-      "fighter/sonic/motion/body/c09/c05attackairhi.nuanmb"
-    ],
     "fighter/sonic/motion/body/c01/c05attackairlw.nuanmb": [
       "fighter/sonic/motion/body/c09/c05attackairlw.nuanmb"
     ],
-    "fighter/sonic/motion/body/c01/c05attackairn.nuanmb": [
-      "fighter/sonic/motion/body/c09/c05attackairn.nuanmb"
-    ],
     "fighter/sonic/motion/body/c01/c05landingairb.nuanmb": [
       "fighter/sonic/motion/body/c09/c05landingairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/c05landingairf.nuanmb": [
-      "fighter/sonic/motion/body/c09/c05landingairf.nuanmb"
     ],
     "fighter/sonic/motion/body/c01/c05landingairhi.nuanmb": [
       "fighter/sonic/motion/body/c09/c05landingairhi.nuanmb"
@@ -1736,9 +1652,6 @@
     ],
     "fighter/sonic/motion/body/c01/d00specialncancel.nuanmb": [
       "fighter/sonic/motion/body/c09/d00specialncancel.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c01/d00specialnhit.nuanmb": [
-      "fighter/sonic/motion/body/c09/d00specialnhit.nuanmb"
     ],
     "fighter/sonic/motion/body/c01/d00specialnlanding.nuanmb": [
       "fighter/sonic/motion/body/c09/d00specialnlanding.nuanmb"
@@ -2466,9 +2379,6 @@
     "fighter/sonic/motion/body/c01/ik.prc": [
       "fighter/sonic/motion/body/c09/ik.prc"
     ],
-    "fighter/sonic/motion/body/c01/motion_list.bin": [
-      "fighter/sonic/motion/body/c09/motion_list.bin"
-    ],
     "fighter/sonic/motion/body/c01/scharge.prc": [
       "fighter/sonic/motion/body/c09/scharge.prc"
     ],
@@ -2967,18 +2877,6 @@
     "fighter/sonic/motion/body/c02/b02rebound.nuanmb": [
       "fighter/sonic/motion/body/c10/b02rebound.nuanmb"
     ],
-    "fighter/sonic/motion/body/c02/c00attack11.nuanmb": [
-      "fighter/sonic/motion/body/c10/c00attack11.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c00attack12.nuanmb": [
-      "fighter/sonic/motion/body/c10/c00attack12.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c00attack13.nuanmb": [
-      "fighter/sonic/motion/body/c10/c00attack13.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c00attackdash.nuanmb": [
-      "fighter/sonic/motion/body/c10/c00attackdash.nuanmb"
-    ],
     "fighter/sonic/motion/body/c02/c01attacks3hi.nuanmb": [
       "fighter/sonic/motion/body/c10/c01attacks3hi.nuanmb"
     ],
@@ -3006,38 +2904,11 @@
     "fighter/sonic/motion/body/c02/c03attacks4s.nuanmb": [
       "fighter/sonic/motion/body/c10/c03attacks4s.nuanmb"
     ],
-    "fighter/sonic/motion/body/c02/c04attackhi4.nuanmb": [
-      "fighter/sonic/motion/body/c10/c04attackhi4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c04attackhi4charge.nuanmb": [
-      "fighter/sonic/motion/body/c10/c04attackhi4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c04attacklw4.nuanmb": [
-      "fighter/sonic/motion/body/c10/c04attacklw4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c04attacklw4charge.nuanmb": [
-      "fighter/sonic/motion/body/c10/c04attacklw4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c05attackairb.nuanmb": [
-      "fighter/sonic/motion/body/c10/c05attackairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c05attackairf.nuanmb": [
-      "fighter/sonic/motion/body/c10/c05attackairf.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c05attackairhi.nuanmb": [
-      "fighter/sonic/motion/body/c10/c05attackairhi.nuanmb"
-    ],
     "fighter/sonic/motion/body/c02/c05attackairlw.nuanmb": [
       "fighter/sonic/motion/body/c10/c05attackairlw.nuanmb"
     ],
-    "fighter/sonic/motion/body/c02/c05attackairn.nuanmb": [
-      "fighter/sonic/motion/body/c10/c05attackairn.nuanmb"
-    ],
     "fighter/sonic/motion/body/c02/c05landingairb.nuanmb": [
       "fighter/sonic/motion/body/c10/c05landingairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/c05landingairf.nuanmb": [
-      "fighter/sonic/motion/body/c10/c05landingairf.nuanmb"
     ],
     "fighter/sonic/motion/body/c02/c05landingairhi.nuanmb": [
       "fighter/sonic/motion/body/c10/c05landingairhi.nuanmb"
@@ -3053,9 +2924,6 @@
     ],
     "fighter/sonic/motion/body/c02/d00specialncancel.nuanmb": [
       "fighter/sonic/motion/body/c10/d00specialncancel.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c02/d00specialnhit.nuanmb": [
-      "fighter/sonic/motion/body/c10/d00specialnhit.nuanmb"
     ],
     "fighter/sonic/motion/body/c02/d00specialnlanding.nuanmb": [
       "fighter/sonic/motion/body/c10/d00specialnlanding.nuanmb"
@@ -3783,9 +3651,6 @@
     "fighter/sonic/motion/body/c02/ik.prc": [
       "fighter/sonic/motion/body/c10/ik.prc"
     ],
-    "fighter/sonic/motion/body/c02/motion_list.bin": [
-      "fighter/sonic/motion/body/c10/motion_list.bin"
-    ],
     "fighter/sonic/motion/body/c02/scharge.prc": [
       "fighter/sonic/motion/body/c10/scharge.prc"
     ],
@@ -4284,18 +4149,6 @@
     "fighter/sonic/motion/body/c03/b02rebound.nuanmb": [
       "fighter/sonic/motion/body/c11/b02rebound.nuanmb"
     ],
-    "fighter/sonic/motion/body/c03/c00attack11.nuanmb": [
-      "fighter/sonic/motion/body/c11/c00attack11.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c00attack12.nuanmb": [
-      "fighter/sonic/motion/body/c11/c00attack12.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c00attack13.nuanmb": [
-      "fighter/sonic/motion/body/c11/c00attack13.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c00attackdash.nuanmb": [
-      "fighter/sonic/motion/body/c11/c00attackdash.nuanmb"
-    ],
     "fighter/sonic/motion/body/c03/c01attacks3hi.nuanmb": [
       "fighter/sonic/motion/body/c11/c01attacks3hi.nuanmb"
     ],
@@ -4323,38 +4176,11 @@
     "fighter/sonic/motion/body/c03/c03attacks4s.nuanmb": [
       "fighter/sonic/motion/body/c11/c03attacks4s.nuanmb"
     ],
-    "fighter/sonic/motion/body/c03/c04attackhi4.nuanmb": [
-      "fighter/sonic/motion/body/c11/c04attackhi4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c04attackhi4charge.nuanmb": [
-      "fighter/sonic/motion/body/c11/c04attackhi4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c04attacklw4.nuanmb": [
-      "fighter/sonic/motion/body/c11/c04attacklw4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c04attacklw4charge.nuanmb": [
-      "fighter/sonic/motion/body/c11/c04attacklw4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c05attackairb.nuanmb": [
-      "fighter/sonic/motion/body/c11/c05attackairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c05attackairf.nuanmb": [
-      "fighter/sonic/motion/body/c11/c05attackairf.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c05attackairhi.nuanmb": [
-      "fighter/sonic/motion/body/c11/c05attackairhi.nuanmb"
-    ],
     "fighter/sonic/motion/body/c03/c05attackairlw.nuanmb": [
       "fighter/sonic/motion/body/c11/c05attackairlw.nuanmb"
     ],
-    "fighter/sonic/motion/body/c03/c05attackairn.nuanmb": [
-      "fighter/sonic/motion/body/c11/c05attackairn.nuanmb"
-    ],
     "fighter/sonic/motion/body/c03/c05landingairb.nuanmb": [
       "fighter/sonic/motion/body/c11/c05landingairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/c05landingairf.nuanmb": [
-      "fighter/sonic/motion/body/c11/c05landingairf.nuanmb"
     ],
     "fighter/sonic/motion/body/c03/c05landingairhi.nuanmb": [
       "fighter/sonic/motion/body/c11/c05landingairhi.nuanmb"
@@ -4370,9 +4196,6 @@
     ],
     "fighter/sonic/motion/body/c03/d00specialncancel.nuanmb": [
       "fighter/sonic/motion/body/c11/d00specialncancel.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c03/d00specialnhit.nuanmb": [
-      "fighter/sonic/motion/body/c11/d00specialnhit.nuanmb"
     ],
     "fighter/sonic/motion/body/c03/d00specialnlanding.nuanmb": [
       "fighter/sonic/motion/body/c11/d00specialnlanding.nuanmb"
@@ -5100,9 +4923,6 @@
     "fighter/sonic/motion/body/c03/ik.prc": [
       "fighter/sonic/motion/body/c11/ik.prc"
     ],
-    "fighter/sonic/motion/body/c03/motion_list.bin": [
-      "fighter/sonic/motion/body/c11/motion_list.bin"
-    ],
     "fighter/sonic/motion/body/c03/scharge.prc": [
       "fighter/sonic/motion/body/c11/scharge.prc"
     ],
@@ -5598,18 +5418,6 @@
     "fighter/sonic/motion/body/c04/b02rebound.nuanmb": [
       "fighter/sonic/motion/body/c12/b02rebound.nuanmb"
     ],
-    "fighter/sonic/motion/body/c04/c00attack11.nuanmb": [
-      "fighter/sonic/motion/body/c12/c00attack11.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c00attack12.nuanmb": [
-      "fighter/sonic/motion/body/c12/c00attack12.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c00attack13.nuanmb": [
-      "fighter/sonic/motion/body/c12/c00attack13.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c00attackdash.nuanmb": [
-      "fighter/sonic/motion/body/c12/c00attackdash.nuanmb"
-    ],
     "fighter/sonic/motion/body/c04/c01attacks3hi.nuanmb": [
       "fighter/sonic/motion/body/c12/c01attacks3hi.nuanmb"
     ],
@@ -5637,38 +5445,11 @@
     "fighter/sonic/motion/body/c04/c03attacks4s.nuanmb": [
       "fighter/sonic/motion/body/c12/c03attacks4s.nuanmb"
     ],
-    "fighter/sonic/motion/body/c04/c04attackhi4.nuanmb": [
-      "fighter/sonic/motion/body/c12/c04attackhi4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c04attackhi4charge.nuanmb": [
-      "fighter/sonic/motion/body/c12/c04attackhi4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c04attacklw4.nuanmb": [
-      "fighter/sonic/motion/body/c12/c04attacklw4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c04attacklw4charge.nuanmb": [
-      "fighter/sonic/motion/body/c12/c04attacklw4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c05attackairb.nuanmb": [
-      "fighter/sonic/motion/body/c12/c05attackairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c05attackairf.nuanmb": [
-      "fighter/sonic/motion/body/c12/c05attackairf.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c05attackairhi.nuanmb": [
-      "fighter/sonic/motion/body/c12/c05attackairhi.nuanmb"
-    ],
     "fighter/sonic/motion/body/c04/c05attackairlw.nuanmb": [
       "fighter/sonic/motion/body/c12/c05attackairlw.nuanmb"
     ],
-    "fighter/sonic/motion/body/c04/c05attackairn.nuanmb": [
-      "fighter/sonic/motion/body/c12/c05attackairn.nuanmb"
-    ],
     "fighter/sonic/motion/body/c04/c05landingairb.nuanmb": [
       "fighter/sonic/motion/body/c12/c05landingairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/c05landingairf.nuanmb": [
-      "fighter/sonic/motion/body/c12/c05landingairf.nuanmb"
     ],
     "fighter/sonic/motion/body/c04/c05landingairhi.nuanmb": [
       "fighter/sonic/motion/body/c12/c05landingairhi.nuanmb"
@@ -5684,9 +5465,6 @@
     ],
     "fighter/sonic/motion/body/c04/d00specialncancel.nuanmb": [
       "fighter/sonic/motion/body/c12/d00specialncancel.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c04/d00specialnhit.nuanmb": [
-      "fighter/sonic/motion/body/c12/d00specialnhit.nuanmb"
     ],
     "fighter/sonic/motion/body/c04/d00specialnlanding.nuanmb": [
       "fighter/sonic/motion/body/c12/d00specialnlanding.nuanmb"
@@ -6414,9 +6192,6 @@
     "fighter/sonic/motion/body/c04/ik.prc": [
       "fighter/sonic/motion/body/c12/ik.prc"
     ],
-    "fighter/sonic/motion/body/c04/motion_list.bin": [
-      "fighter/sonic/motion/body/c12/motion_list.bin"
-    ],
     "fighter/sonic/motion/body/c04/scharge.prc": [
       "fighter/sonic/motion/body/c12/scharge.prc"
     ],
@@ -6912,18 +6687,6 @@
     "fighter/sonic/motion/body/c05/b02rebound.nuanmb": [
       "fighter/sonic/motion/body/c13/b02rebound.nuanmb"
     ],
-    "fighter/sonic/motion/body/c05/c00attack11.nuanmb": [
-      "fighter/sonic/motion/body/c13/c00attack11.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c00attack12.nuanmb": [
-      "fighter/sonic/motion/body/c13/c00attack12.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c00attack13.nuanmb": [
-      "fighter/sonic/motion/body/c13/c00attack13.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c00attackdash.nuanmb": [
-      "fighter/sonic/motion/body/c13/c00attackdash.nuanmb"
-    ],
     "fighter/sonic/motion/body/c05/c01attacks3hi.nuanmb": [
       "fighter/sonic/motion/body/c13/c01attacks3hi.nuanmb"
     ],
@@ -6951,38 +6714,11 @@
     "fighter/sonic/motion/body/c05/c03attacks4s.nuanmb": [
       "fighter/sonic/motion/body/c13/c03attacks4s.nuanmb"
     ],
-    "fighter/sonic/motion/body/c05/c04attackhi4.nuanmb": [
-      "fighter/sonic/motion/body/c13/c04attackhi4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c04attackhi4charge.nuanmb": [
-      "fighter/sonic/motion/body/c13/c04attackhi4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c04attacklw4.nuanmb": [
-      "fighter/sonic/motion/body/c13/c04attacklw4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c04attacklw4charge.nuanmb": [
-      "fighter/sonic/motion/body/c13/c04attacklw4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c05attackairb.nuanmb": [
-      "fighter/sonic/motion/body/c13/c05attackairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c05attackairf.nuanmb": [
-      "fighter/sonic/motion/body/c13/c05attackairf.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c05attackairhi.nuanmb": [
-      "fighter/sonic/motion/body/c13/c05attackairhi.nuanmb"
-    ],
     "fighter/sonic/motion/body/c05/c05attackairlw.nuanmb": [
       "fighter/sonic/motion/body/c13/c05attackairlw.nuanmb"
     ],
-    "fighter/sonic/motion/body/c05/c05attackairn.nuanmb": [
-      "fighter/sonic/motion/body/c13/c05attackairn.nuanmb"
-    ],
     "fighter/sonic/motion/body/c05/c05landingairb.nuanmb": [
       "fighter/sonic/motion/body/c13/c05landingairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/c05landingairf.nuanmb": [
-      "fighter/sonic/motion/body/c13/c05landingairf.nuanmb"
     ],
     "fighter/sonic/motion/body/c05/c05landingairhi.nuanmb": [
       "fighter/sonic/motion/body/c13/c05landingairhi.nuanmb"
@@ -6998,9 +6734,6 @@
     ],
     "fighter/sonic/motion/body/c05/d00specialncancel.nuanmb": [
       "fighter/sonic/motion/body/c13/d00specialncancel.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c05/d00specialnhit.nuanmb": [
-      "fighter/sonic/motion/body/c13/d00specialnhit.nuanmb"
     ],
     "fighter/sonic/motion/body/c05/d00specialnlanding.nuanmb": [
       "fighter/sonic/motion/body/c13/d00specialnlanding.nuanmb"
@@ -7728,9 +7461,6 @@
     "fighter/sonic/motion/body/c05/ik.prc": [
       "fighter/sonic/motion/body/c13/ik.prc"
     ],
-    "fighter/sonic/motion/body/c05/motion_list.bin": [
-      "fighter/sonic/motion/body/c13/motion_list.bin"
-    ],
     "fighter/sonic/motion/body/c05/scharge.prc": [
       "fighter/sonic/motion/body/c13/scharge.prc"
     ],
@@ -8226,18 +7956,6 @@
     "fighter/sonic/motion/body/c06/b02rebound.nuanmb": [
       "fighter/sonic/motion/body/c14/b02rebound.nuanmb"
     ],
-    "fighter/sonic/motion/body/c06/c00attack11.nuanmb": [
-      "fighter/sonic/motion/body/c14/c00attack11.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c00attack12.nuanmb": [
-      "fighter/sonic/motion/body/c14/c00attack12.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c00attack13.nuanmb": [
-      "fighter/sonic/motion/body/c14/c00attack13.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c00attackdash.nuanmb": [
-      "fighter/sonic/motion/body/c14/c00attackdash.nuanmb"
-    ],
     "fighter/sonic/motion/body/c06/c01attacks3hi.nuanmb": [
       "fighter/sonic/motion/body/c14/c01attacks3hi.nuanmb"
     ],
@@ -8265,38 +7983,11 @@
     "fighter/sonic/motion/body/c06/c03attacks4s.nuanmb": [
       "fighter/sonic/motion/body/c14/c03attacks4s.nuanmb"
     ],
-    "fighter/sonic/motion/body/c06/c04attackhi4.nuanmb": [
-      "fighter/sonic/motion/body/c14/c04attackhi4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c04attackhi4charge.nuanmb": [
-      "fighter/sonic/motion/body/c14/c04attackhi4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c04attacklw4.nuanmb": [
-      "fighter/sonic/motion/body/c14/c04attacklw4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c04attacklw4charge.nuanmb": [
-      "fighter/sonic/motion/body/c14/c04attacklw4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c05attackairb.nuanmb": [
-      "fighter/sonic/motion/body/c14/c05attackairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c05attackairf.nuanmb": [
-      "fighter/sonic/motion/body/c14/c05attackairf.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c05attackairhi.nuanmb": [
-      "fighter/sonic/motion/body/c14/c05attackairhi.nuanmb"
-    ],
     "fighter/sonic/motion/body/c06/c05attackairlw.nuanmb": [
       "fighter/sonic/motion/body/c14/c05attackairlw.nuanmb"
     ],
-    "fighter/sonic/motion/body/c06/c05attackairn.nuanmb": [
-      "fighter/sonic/motion/body/c14/c05attackairn.nuanmb"
-    ],
     "fighter/sonic/motion/body/c06/c05landingairb.nuanmb": [
       "fighter/sonic/motion/body/c14/c05landingairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/c05landingairf.nuanmb": [
-      "fighter/sonic/motion/body/c14/c05landingairf.nuanmb"
     ],
     "fighter/sonic/motion/body/c06/c05landingairhi.nuanmb": [
       "fighter/sonic/motion/body/c14/c05landingairhi.nuanmb"
@@ -8312,9 +8003,6 @@
     ],
     "fighter/sonic/motion/body/c06/d00specialncancel.nuanmb": [
       "fighter/sonic/motion/body/c14/d00specialncancel.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c06/d00specialnhit.nuanmb": [
-      "fighter/sonic/motion/body/c14/d00specialnhit.nuanmb"
     ],
     "fighter/sonic/motion/body/c06/d00specialnlanding.nuanmb": [
       "fighter/sonic/motion/body/c14/d00specialnlanding.nuanmb"
@@ -9042,9 +8730,6 @@
     "fighter/sonic/motion/body/c06/ik.prc": [
       "fighter/sonic/motion/body/c14/ik.prc"
     ],
-    "fighter/sonic/motion/body/c06/motion_list.bin": [
-      "fighter/sonic/motion/body/c14/motion_list.bin"
-    ],
     "fighter/sonic/motion/body/c06/scharge.prc": [
       "fighter/sonic/motion/body/c14/scharge.prc"
     ],
@@ -9540,18 +9225,6 @@
     "fighter/sonic/motion/body/c07/b02rebound.nuanmb": [
       "fighter/sonic/motion/body/c15/b02rebound.nuanmb"
     ],
-    "fighter/sonic/motion/body/c07/c00attack11.nuanmb": [
-      "fighter/sonic/motion/body/c15/c00attack11.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c00attack12.nuanmb": [
-      "fighter/sonic/motion/body/c15/c00attack12.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c00attack13.nuanmb": [
-      "fighter/sonic/motion/body/c15/c00attack13.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c00attackdash.nuanmb": [
-      "fighter/sonic/motion/body/c15/c00attackdash.nuanmb"
-    ],
     "fighter/sonic/motion/body/c07/c01attacks3hi.nuanmb": [
       "fighter/sonic/motion/body/c15/c01attacks3hi.nuanmb"
     ],
@@ -9579,38 +9252,11 @@
     "fighter/sonic/motion/body/c07/c03attacks4s.nuanmb": [
       "fighter/sonic/motion/body/c15/c03attacks4s.nuanmb"
     ],
-    "fighter/sonic/motion/body/c07/c04attackhi4.nuanmb": [
-      "fighter/sonic/motion/body/c15/c04attackhi4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c04attackhi4charge.nuanmb": [
-      "fighter/sonic/motion/body/c15/c04attackhi4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c04attacklw4.nuanmb": [
-      "fighter/sonic/motion/body/c15/c04attacklw4.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c04attacklw4charge.nuanmb": [
-      "fighter/sonic/motion/body/c15/c04attacklw4charge.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c05attackairb.nuanmb": [
-      "fighter/sonic/motion/body/c15/c05attackairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c05attackairf.nuanmb": [
-      "fighter/sonic/motion/body/c15/c05attackairf.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c05attackairhi.nuanmb": [
-      "fighter/sonic/motion/body/c15/c05attackairhi.nuanmb"
-    ],
     "fighter/sonic/motion/body/c07/c05attackairlw.nuanmb": [
       "fighter/sonic/motion/body/c15/c05attackairlw.nuanmb"
     ],
-    "fighter/sonic/motion/body/c07/c05attackairn.nuanmb": [
-      "fighter/sonic/motion/body/c15/c05attackairn.nuanmb"
-    ],
     "fighter/sonic/motion/body/c07/c05landingairb.nuanmb": [
       "fighter/sonic/motion/body/c15/c05landingairb.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/c05landingairf.nuanmb": [
-      "fighter/sonic/motion/body/c15/c05landingairf.nuanmb"
     ],
     "fighter/sonic/motion/body/c07/c05landingairhi.nuanmb": [
       "fighter/sonic/motion/body/c15/c05landingairhi.nuanmb"
@@ -9626,9 +9272,6 @@
     ],
     "fighter/sonic/motion/body/c07/d00specialncancel.nuanmb": [
       "fighter/sonic/motion/body/c15/d00specialncancel.nuanmb"
-    ],
-    "fighter/sonic/motion/body/c07/d00specialnhit.nuanmb": [
-      "fighter/sonic/motion/body/c15/d00specialnhit.nuanmb"
     ],
     "fighter/sonic/motion/body/c07/d00specialnlanding.nuanmb": [
       "fighter/sonic/motion/body/c15/d00specialnlanding.nuanmb"
@@ -10356,9 +9999,6 @@
     "fighter/sonic/motion/body/c07/ik.prc": [
       "fighter/sonic/motion/body/c15/ik.prc"
     ],
-    "fighter/sonic/motion/body/c07/motion_list.bin": [
-      "fighter/sonic/motion/body/c15/motion_list.bin"
-    ],
     "fighter/sonic/motion/body/c07/scharge.prc": [
       "fighter/sonic/motion/body/c15/scharge.prc"
     ],
@@ -10772,10 +10412,6 @@
       "fighter/sonic/motion/body/c08/b02escapef.nuanmb",
       "fighter/sonic/motion/body/c08/b02escapen.nuanmb",
       "fighter/sonic/motion/body/c08/b02rebound.nuanmb",
-      "fighter/sonic/motion/body/c08/c00attack11.nuanmb",
-      "fighter/sonic/motion/body/c08/c00attack12.nuanmb",
-      "fighter/sonic/motion/body/c08/c00attack13.nuanmb",
-      "fighter/sonic/motion/body/c08/c00attackdash.nuanmb",
       "fighter/sonic/motion/body/c08/c01attacks3hi.nuanmb",
       "fighter/sonic/motion/body/c08/c01attacks3lw.nuanmb",
       "fighter/sonic/motion/body/c08/c01attacks3s.nuanmb",
@@ -10785,23 +10421,13 @@
       "fighter/sonic/motion/body/c08/c03attacks4hi.nuanmb",
       "fighter/sonic/motion/body/c08/c03attacks4lw.nuanmb",
       "fighter/sonic/motion/body/c08/c03attacks4s.nuanmb",
-      "fighter/sonic/motion/body/c08/c04attackhi4.nuanmb",
-      "fighter/sonic/motion/body/c08/c04attackhi4charge.nuanmb",
-      "fighter/sonic/motion/body/c08/c04attacklw4.nuanmb",
-      "fighter/sonic/motion/body/c08/c04attacklw4charge.nuanmb",
-      "fighter/sonic/motion/body/c08/c05attackairb.nuanmb",
-      "fighter/sonic/motion/body/c08/c05attackairf.nuanmb",
-      "fighter/sonic/motion/body/c08/c05attackairhi.nuanmb",
       "fighter/sonic/motion/body/c08/c05attackairlw.nuanmb",
-      "fighter/sonic/motion/body/c08/c05attackairn.nuanmb",
       "fighter/sonic/motion/body/c08/c05landingairb.nuanmb",
-      "fighter/sonic/motion/body/c08/c05landingairf.nuanmb",
       "fighter/sonic/motion/body/c08/c05landingairhi.nuanmb",
       "fighter/sonic/motion/body/c08/c05landingairlw.nuanmb",
       "fighter/sonic/motion/body/c08/c05landingairn.nuanmb",
       "fighter/sonic/motion/body/c08/d00specialairnstart.nuanmb",
       "fighter/sonic/motion/body/c08/d00specialncancel.nuanmb",
-      "fighter/sonic/motion/body/c08/d00specialnhit.nuanmb",
       "fighter/sonic/motion/body/c08/d00specialnlanding.nuanmb",
       "fighter/sonic/motion/body/c08/d00specialnrebound.nuanmb",
       "fighter/sonic/motion/body/c08/d00specialnspin.nuanmb",
@@ -11044,7 +10670,6 @@
       "fighter/sonic/motion/body/c08/l02share_sleep.nuanmb",
       "fighter/sonic/motion/body/c08/flip.prc",
       "fighter/sonic/motion/body/c08/ik.prc",
-      "fighter/sonic/motion/body/c08/motion_list.bin",
       "fighter/sonic/motion/body/c08/scharge.prc",
       "fighter/sonic/motion/body/c08/swing.prc",
       "fighter/sonic/motion/body/c08/swingblend.prc",
@@ -11342,10 +10967,6 @@
       "fighter/sonic/motion/body/c09/b02escapef.nuanmb",
       "fighter/sonic/motion/body/c09/b02escapen.nuanmb",
       "fighter/sonic/motion/body/c09/b02rebound.nuanmb",
-      "fighter/sonic/motion/body/c09/c00attack11.nuanmb",
-      "fighter/sonic/motion/body/c09/c00attack12.nuanmb",
-      "fighter/sonic/motion/body/c09/c00attack13.nuanmb",
-      "fighter/sonic/motion/body/c09/c00attackdash.nuanmb",
       "fighter/sonic/motion/body/c09/c01attacks3hi.nuanmb",
       "fighter/sonic/motion/body/c09/c01attacks3lw.nuanmb",
       "fighter/sonic/motion/body/c09/c01attacks3s.nuanmb",
@@ -11355,23 +10976,13 @@
       "fighter/sonic/motion/body/c09/c03attacks4hi.nuanmb",
       "fighter/sonic/motion/body/c09/c03attacks4lw.nuanmb",
       "fighter/sonic/motion/body/c09/c03attacks4s.nuanmb",
-      "fighter/sonic/motion/body/c09/c04attackhi4.nuanmb",
-      "fighter/sonic/motion/body/c09/c04attackhi4charge.nuanmb",
-      "fighter/sonic/motion/body/c09/c04attacklw4.nuanmb",
-      "fighter/sonic/motion/body/c09/c04attacklw4charge.nuanmb",
-      "fighter/sonic/motion/body/c09/c05attackairb.nuanmb",
-      "fighter/sonic/motion/body/c09/c05attackairf.nuanmb",
-      "fighter/sonic/motion/body/c09/c05attackairhi.nuanmb",
       "fighter/sonic/motion/body/c09/c05attackairlw.nuanmb",
-      "fighter/sonic/motion/body/c09/c05attackairn.nuanmb",
       "fighter/sonic/motion/body/c09/c05landingairb.nuanmb",
-      "fighter/sonic/motion/body/c09/c05landingairf.nuanmb",
       "fighter/sonic/motion/body/c09/c05landingairhi.nuanmb",
       "fighter/sonic/motion/body/c09/c05landingairlw.nuanmb",
       "fighter/sonic/motion/body/c09/c05landingairn.nuanmb",
       "fighter/sonic/motion/body/c09/d00specialairnstart.nuanmb",
       "fighter/sonic/motion/body/c09/d00specialncancel.nuanmb",
-      "fighter/sonic/motion/body/c09/d00specialnhit.nuanmb",
       "fighter/sonic/motion/body/c09/d00specialnlanding.nuanmb",
       "fighter/sonic/motion/body/c09/d00specialnrebound.nuanmb",
       "fighter/sonic/motion/body/c09/d00specialnspin.nuanmb",
@@ -11614,7 +11225,6 @@
       "fighter/sonic/motion/body/c09/l02share_sleep.nuanmb",
       "fighter/sonic/motion/body/c09/flip.prc",
       "fighter/sonic/motion/body/c09/ik.prc",
-      "fighter/sonic/motion/body/c09/motion_list.bin",
       "fighter/sonic/motion/body/c09/scharge.prc",
       "fighter/sonic/motion/body/c09/swing.prc",
       "fighter/sonic/motion/body/c09/swingblend.prc",
@@ -11907,10 +11517,6 @@
       "fighter/sonic/motion/body/c10/b02escapef.nuanmb",
       "fighter/sonic/motion/body/c10/b02escapen.nuanmb",
       "fighter/sonic/motion/body/c10/b02rebound.nuanmb",
-      "fighter/sonic/motion/body/c10/c00attack11.nuanmb",
-      "fighter/sonic/motion/body/c10/c00attack12.nuanmb",
-      "fighter/sonic/motion/body/c10/c00attack13.nuanmb",
-      "fighter/sonic/motion/body/c10/c00attackdash.nuanmb",
       "fighter/sonic/motion/body/c10/c01attacks3hi.nuanmb",
       "fighter/sonic/motion/body/c10/c01attacks3lw.nuanmb",
       "fighter/sonic/motion/body/c10/c01attacks3s.nuanmb",
@@ -11920,23 +11526,13 @@
       "fighter/sonic/motion/body/c10/c03attacks4hi.nuanmb",
       "fighter/sonic/motion/body/c10/c03attacks4lw.nuanmb",
       "fighter/sonic/motion/body/c10/c03attacks4s.nuanmb",
-      "fighter/sonic/motion/body/c10/c04attackhi4.nuanmb",
-      "fighter/sonic/motion/body/c10/c04attackhi4charge.nuanmb",
-      "fighter/sonic/motion/body/c10/c04attacklw4.nuanmb",
-      "fighter/sonic/motion/body/c10/c04attacklw4charge.nuanmb",
-      "fighter/sonic/motion/body/c10/c05attackairb.nuanmb",
-      "fighter/sonic/motion/body/c10/c05attackairf.nuanmb",
-      "fighter/sonic/motion/body/c10/c05attackairhi.nuanmb",
       "fighter/sonic/motion/body/c10/c05attackairlw.nuanmb",
-      "fighter/sonic/motion/body/c10/c05attackairn.nuanmb",
       "fighter/sonic/motion/body/c10/c05landingairb.nuanmb",
-      "fighter/sonic/motion/body/c10/c05landingairf.nuanmb",
       "fighter/sonic/motion/body/c10/c05landingairhi.nuanmb",
       "fighter/sonic/motion/body/c10/c05landingairlw.nuanmb",
       "fighter/sonic/motion/body/c10/c05landingairn.nuanmb",
       "fighter/sonic/motion/body/c10/d00specialairnstart.nuanmb",
       "fighter/sonic/motion/body/c10/d00specialncancel.nuanmb",
-      "fighter/sonic/motion/body/c10/d00specialnhit.nuanmb",
       "fighter/sonic/motion/body/c10/d00specialnlanding.nuanmb",
       "fighter/sonic/motion/body/c10/d00specialnrebound.nuanmb",
       "fighter/sonic/motion/body/c10/d00specialnspin.nuanmb",
@@ -12179,7 +11775,6 @@
       "fighter/sonic/motion/body/c10/l02share_sleep.nuanmb",
       "fighter/sonic/motion/body/c10/flip.prc",
       "fighter/sonic/motion/body/c10/ik.prc",
-      "fighter/sonic/motion/body/c10/motion_list.bin",
       "fighter/sonic/motion/body/c10/scharge.prc",
       "fighter/sonic/motion/body/c10/swing.prc",
       "fighter/sonic/motion/body/c10/swingblend.prc",
@@ -12472,10 +12067,6 @@
       "fighter/sonic/motion/body/c11/b02escapef.nuanmb",
       "fighter/sonic/motion/body/c11/b02escapen.nuanmb",
       "fighter/sonic/motion/body/c11/b02rebound.nuanmb",
-      "fighter/sonic/motion/body/c11/c00attack11.nuanmb",
-      "fighter/sonic/motion/body/c11/c00attack12.nuanmb",
-      "fighter/sonic/motion/body/c11/c00attack13.nuanmb",
-      "fighter/sonic/motion/body/c11/c00attackdash.nuanmb",
       "fighter/sonic/motion/body/c11/c01attacks3hi.nuanmb",
       "fighter/sonic/motion/body/c11/c01attacks3lw.nuanmb",
       "fighter/sonic/motion/body/c11/c01attacks3s.nuanmb",
@@ -12485,23 +12076,13 @@
       "fighter/sonic/motion/body/c11/c03attacks4hi.nuanmb",
       "fighter/sonic/motion/body/c11/c03attacks4lw.nuanmb",
       "fighter/sonic/motion/body/c11/c03attacks4s.nuanmb",
-      "fighter/sonic/motion/body/c11/c04attackhi4.nuanmb",
-      "fighter/sonic/motion/body/c11/c04attackhi4charge.nuanmb",
-      "fighter/sonic/motion/body/c11/c04attacklw4.nuanmb",
-      "fighter/sonic/motion/body/c11/c04attacklw4charge.nuanmb",
-      "fighter/sonic/motion/body/c11/c05attackairb.nuanmb",
-      "fighter/sonic/motion/body/c11/c05attackairf.nuanmb",
-      "fighter/sonic/motion/body/c11/c05attackairhi.nuanmb",
       "fighter/sonic/motion/body/c11/c05attackairlw.nuanmb",
-      "fighter/sonic/motion/body/c11/c05attackairn.nuanmb",
       "fighter/sonic/motion/body/c11/c05landingairb.nuanmb",
-      "fighter/sonic/motion/body/c11/c05landingairf.nuanmb",
       "fighter/sonic/motion/body/c11/c05landingairhi.nuanmb",
       "fighter/sonic/motion/body/c11/c05landingairlw.nuanmb",
       "fighter/sonic/motion/body/c11/c05landingairn.nuanmb",
       "fighter/sonic/motion/body/c11/d00specialairnstart.nuanmb",
       "fighter/sonic/motion/body/c11/d00specialncancel.nuanmb",
-      "fighter/sonic/motion/body/c11/d00specialnhit.nuanmb",
       "fighter/sonic/motion/body/c11/d00specialnlanding.nuanmb",
       "fighter/sonic/motion/body/c11/d00specialnrebound.nuanmb",
       "fighter/sonic/motion/body/c11/d00specialnspin.nuanmb",
@@ -12744,7 +12325,6 @@
       "fighter/sonic/motion/body/c11/l02share_sleep.nuanmb",
       "fighter/sonic/motion/body/c11/flip.prc",
       "fighter/sonic/motion/body/c11/ik.prc",
-      "fighter/sonic/motion/body/c11/motion_list.bin",
       "fighter/sonic/motion/body/c11/scharge.prc",
       "fighter/sonic/motion/body/c11/swing.prc",
       "fighter/sonic/motion/body/c11/swingblend.prc",
@@ -13036,10 +12616,6 @@
       "fighter/sonic/motion/body/c12/b02escapef.nuanmb",
       "fighter/sonic/motion/body/c12/b02escapen.nuanmb",
       "fighter/sonic/motion/body/c12/b02rebound.nuanmb",
-      "fighter/sonic/motion/body/c12/c00attack11.nuanmb",
-      "fighter/sonic/motion/body/c12/c00attack12.nuanmb",
-      "fighter/sonic/motion/body/c12/c00attack13.nuanmb",
-      "fighter/sonic/motion/body/c12/c00attackdash.nuanmb",
       "fighter/sonic/motion/body/c12/c01attacks3hi.nuanmb",
       "fighter/sonic/motion/body/c12/c01attacks3lw.nuanmb",
       "fighter/sonic/motion/body/c12/c01attacks3s.nuanmb",
@@ -13049,23 +12625,13 @@
       "fighter/sonic/motion/body/c12/c03attacks4hi.nuanmb",
       "fighter/sonic/motion/body/c12/c03attacks4lw.nuanmb",
       "fighter/sonic/motion/body/c12/c03attacks4s.nuanmb",
-      "fighter/sonic/motion/body/c12/c04attackhi4.nuanmb",
-      "fighter/sonic/motion/body/c12/c04attackhi4charge.nuanmb",
-      "fighter/sonic/motion/body/c12/c04attacklw4.nuanmb",
-      "fighter/sonic/motion/body/c12/c04attacklw4charge.nuanmb",
-      "fighter/sonic/motion/body/c12/c05attackairb.nuanmb",
-      "fighter/sonic/motion/body/c12/c05attackairf.nuanmb",
-      "fighter/sonic/motion/body/c12/c05attackairhi.nuanmb",
       "fighter/sonic/motion/body/c12/c05attackairlw.nuanmb",
-      "fighter/sonic/motion/body/c12/c05attackairn.nuanmb",
       "fighter/sonic/motion/body/c12/c05landingairb.nuanmb",
-      "fighter/sonic/motion/body/c12/c05landingairf.nuanmb",
       "fighter/sonic/motion/body/c12/c05landingairhi.nuanmb",
       "fighter/sonic/motion/body/c12/c05landingairlw.nuanmb",
       "fighter/sonic/motion/body/c12/c05landingairn.nuanmb",
       "fighter/sonic/motion/body/c12/d00specialairnstart.nuanmb",
       "fighter/sonic/motion/body/c12/d00specialncancel.nuanmb",
-      "fighter/sonic/motion/body/c12/d00specialnhit.nuanmb",
       "fighter/sonic/motion/body/c12/d00specialnlanding.nuanmb",
       "fighter/sonic/motion/body/c12/d00specialnrebound.nuanmb",
       "fighter/sonic/motion/body/c12/d00specialnspin.nuanmb",
@@ -13308,7 +12874,6 @@
       "fighter/sonic/motion/body/c12/l02share_sleep.nuanmb",
       "fighter/sonic/motion/body/c12/flip.prc",
       "fighter/sonic/motion/body/c12/ik.prc",
-      "fighter/sonic/motion/body/c12/motion_list.bin",
       "fighter/sonic/motion/body/c12/scharge.prc",
       "fighter/sonic/motion/body/c12/swing.prc",
       "fighter/sonic/motion/body/c12/swingblend.prc",
@@ -13600,10 +13165,6 @@
       "fighter/sonic/motion/body/c13/b02escapef.nuanmb",
       "fighter/sonic/motion/body/c13/b02escapen.nuanmb",
       "fighter/sonic/motion/body/c13/b02rebound.nuanmb",
-      "fighter/sonic/motion/body/c13/c00attack11.nuanmb",
-      "fighter/sonic/motion/body/c13/c00attack12.nuanmb",
-      "fighter/sonic/motion/body/c13/c00attack13.nuanmb",
-      "fighter/sonic/motion/body/c13/c00attackdash.nuanmb",
       "fighter/sonic/motion/body/c13/c01attacks3hi.nuanmb",
       "fighter/sonic/motion/body/c13/c01attacks3lw.nuanmb",
       "fighter/sonic/motion/body/c13/c01attacks3s.nuanmb",
@@ -13613,23 +13174,13 @@
       "fighter/sonic/motion/body/c13/c03attacks4hi.nuanmb",
       "fighter/sonic/motion/body/c13/c03attacks4lw.nuanmb",
       "fighter/sonic/motion/body/c13/c03attacks4s.nuanmb",
-      "fighter/sonic/motion/body/c13/c04attackhi4.nuanmb",
-      "fighter/sonic/motion/body/c13/c04attackhi4charge.nuanmb",
-      "fighter/sonic/motion/body/c13/c04attacklw4.nuanmb",
-      "fighter/sonic/motion/body/c13/c04attacklw4charge.nuanmb",
-      "fighter/sonic/motion/body/c13/c05attackairb.nuanmb",
-      "fighter/sonic/motion/body/c13/c05attackairf.nuanmb",
-      "fighter/sonic/motion/body/c13/c05attackairhi.nuanmb",
       "fighter/sonic/motion/body/c13/c05attackairlw.nuanmb",
-      "fighter/sonic/motion/body/c13/c05attackairn.nuanmb",
       "fighter/sonic/motion/body/c13/c05landingairb.nuanmb",
-      "fighter/sonic/motion/body/c13/c05landingairf.nuanmb",
       "fighter/sonic/motion/body/c13/c05landingairhi.nuanmb",
       "fighter/sonic/motion/body/c13/c05landingairlw.nuanmb",
       "fighter/sonic/motion/body/c13/c05landingairn.nuanmb",
       "fighter/sonic/motion/body/c13/d00specialairnstart.nuanmb",
       "fighter/sonic/motion/body/c13/d00specialncancel.nuanmb",
-      "fighter/sonic/motion/body/c13/d00specialnhit.nuanmb",
       "fighter/sonic/motion/body/c13/d00specialnlanding.nuanmb",
       "fighter/sonic/motion/body/c13/d00specialnrebound.nuanmb",
       "fighter/sonic/motion/body/c13/d00specialnspin.nuanmb",
@@ -13872,7 +13423,6 @@
       "fighter/sonic/motion/body/c13/l02share_sleep.nuanmb",
       "fighter/sonic/motion/body/c13/flip.prc",
       "fighter/sonic/motion/body/c13/ik.prc",
-      "fighter/sonic/motion/body/c13/motion_list.bin",
       "fighter/sonic/motion/body/c13/scharge.prc",
       "fighter/sonic/motion/body/c13/swing.prc",
       "fighter/sonic/motion/body/c13/swingblend.prc",
@@ -14164,10 +13714,6 @@
       "fighter/sonic/motion/body/c14/b02escapef.nuanmb",
       "fighter/sonic/motion/body/c14/b02escapen.nuanmb",
       "fighter/sonic/motion/body/c14/b02rebound.nuanmb",
-      "fighter/sonic/motion/body/c14/c00attack11.nuanmb",
-      "fighter/sonic/motion/body/c14/c00attack12.nuanmb",
-      "fighter/sonic/motion/body/c14/c00attack13.nuanmb",
-      "fighter/sonic/motion/body/c14/c00attackdash.nuanmb",
       "fighter/sonic/motion/body/c14/c01attacks3hi.nuanmb",
       "fighter/sonic/motion/body/c14/c01attacks3lw.nuanmb",
       "fighter/sonic/motion/body/c14/c01attacks3s.nuanmb",
@@ -14177,23 +13723,13 @@
       "fighter/sonic/motion/body/c14/c03attacks4hi.nuanmb",
       "fighter/sonic/motion/body/c14/c03attacks4lw.nuanmb",
       "fighter/sonic/motion/body/c14/c03attacks4s.nuanmb",
-      "fighter/sonic/motion/body/c14/c04attackhi4.nuanmb",
-      "fighter/sonic/motion/body/c14/c04attackhi4charge.nuanmb",
-      "fighter/sonic/motion/body/c14/c04attacklw4.nuanmb",
-      "fighter/sonic/motion/body/c14/c04attacklw4charge.nuanmb",
-      "fighter/sonic/motion/body/c14/c05attackairb.nuanmb",
-      "fighter/sonic/motion/body/c14/c05attackairf.nuanmb",
-      "fighter/sonic/motion/body/c14/c05attackairhi.nuanmb",
       "fighter/sonic/motion/body/c14/c05attackairlw.nuanmb",
-      "fighter/sonic/motion/body/c14/c05attackairn.nuanmb",
       "fighter/sonic/motion/body/c14/c05landingairb.nuanmb",
-      "fighter/sonic/motion/body/c14/c05landingairf.nuanmb",
       "fighter/sonic/motion/body/c14/c05landingairhi.nuanmb",
       "fighter/sonic/motion/body/c14/c05landingairlw.nuanmb",
       "fighter/sonic/motion/body/c14/c05landingairn.nuanmb",
       "fighter/sonic/motion/body/c14/d00specialairnstart.nuanmb",
       "fighter/sonic/motion/body/c14/d00specialncancel.nuanmb",
-      "fighter/sonic/motion/body/c14/d00specialnhit.nuanmb",
       "fighter/sonic/motion/body/c14/d00specialnlanding.nuanmb",
       "fighter/sonic/motion/body/c14/d00specialnrebound.nuanmb",
       "fighter/sonic/motion/body/c14/d00specialnspin.nuanmb",
@@ -14436,7 +13972,6 @@
       "fighter/sonic/motion/body/c14/l02share_sleep.nuanmb",
       "fighter/sonic/motion/body/c14/flip.prc",
       "fighter/sonic/motion/body/c14/ik.prc",
-      "fighter/sonic/motion/body/c14/motion_list.bin",
       "fighter/sonic/motion/body/c14/scharge.prc",
       "fighter/sonic/motion/body/c14/swing.prc",
       "fighter/sonic/motion/body/c14/swingblend.prc",
@@ -14728,10 +14263,6 @@
       "fighter/sonic/motion/body/c15/b02escapef.nuanmb",
       "fighter/sonic/motion/body/c15/b02escapen.nuanmb",
       "fighter/sonic/motion/body/c15/b02rebound.nuanmb",
-      "fighter/sonic/motion/body/c15/c00attack11.nuanmb",
-      "fighter/sonic/motion/body/c15/c00attack12.nuanmb",
-      "fighter/sonic/motion/body/c15/c00attack13.nuanmb",
-      "fighter/sonic/motion/body/c15/c00attackdash.nuanmb",
       "fighter/sonic/motion/body/c15/c01attacks3hi.nuanmb",
       "fighter/sonic/motion/body/c15/c01attacks3lw.nuanmb",
       "fighter/sonic/motion/body/c15/c01attacks3s.nuanmb",
@@ -14741,23 +14272,13 @@
       "fighter/sonic/motion/body/c15/c03attacks4hi.nuanmb",
       "fighter/sonic/motion/body/c15/c03attacks4lw.nuanmb",
       "fighter/sonic/motion/body/c15/c03attacks4s.nuanmb",
-      "fighter/sonic/motion/body/c15/c04attackhi4.nuanmb",
-      "fighter/sonic/motion/body/c15/c04attackhi4charge.nuanmb",
-      "fighter/sonic/motion/body/c15/c04attacklw4.nuanmb",
-      "fighter/sonic/motion/body/c15/c04attacklw4charge.nuanmb",
-      "fighter/sonic/motion/body/c15/c05attackairb.nuanmb",
-      "fighter/sonic/motion/body/c15/c05attackairf.nuanmb",
-      "fighter/sonic/motion/body/c15/c05attackairhi.nuanmb",
       "fighter/sonic/motion/body/c15/c05attackairlw.nuanmb",
-      "fighter/sonic/motion/body/c15/c05attackairn.nuanmb",
       "fighter/sonic/motion/body/c15/c05landingairb.nuanmb",
-      "fighter/sonic/motion/body/c15/c05landingairf.nuanmb",
       "fighter/sonic/motion/body/c15/c05landingairhi.nuanmb",
       "fighter/sonic/motion/body/c15/c05landingairlw.nuanmb",
       "fighter/sonic/motion/body/c15/c05landingairn.nuanmb",
       "fighter/sonic/motion/body/c15/d00specialairnstart.nuanmb",
       "fighter/sonic/motion/body/c15/d00specialncancel.nuanmb",
-      "fighter/sonic/motion/body/c15/d00specialnhit.nuanmb",
       "fighter/sonic/motion/body/c15/d00specialnlanding.nuanmb",
       "fighter/sonic/motion/body/c15/d00specialnrebound.nuanmb",
       "fighter/sonic/motion/body/c15/d00specialnspin.nuanmb",
@@ -15000,7 +14521,6 @@
       "fighter/sonic/motion/body/c15/l02share_sleep.nuanmb",
       "fighter/sonic/motion/body/c15/flip.prc",
       "fighter/sonic/motion/body/c15/ik.prc",
-      "fighter/sonic/motion/body/c15/motion_list.bin",
       "fighter/sonic/motion/body/c15/scharge.prc",
       "fighter/sonic/motion/body/c15/swing.prc",
       "fighter/sonic/motion/body/c15/swingblend.prc",
